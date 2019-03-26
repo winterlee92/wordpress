@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-26 09:02+0500\n"
+"PO-Revision-Date: 2019-02-26 09:02+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:1 inc/wphi_settings.php:1 index.php:1
+msgid "No script kiddies please!"
+msgstr "Keine Drehbuchkinder bitte!"
+
+#: inc/functions.php:85 inc/wphi_settings.php:70
+msgid "Settings"
+msgstr "die Einstellungen"
+
+#: inc/functions.php:91 inc/functions.php:453
+msgid "Go Premium"
+msgstr "Premium werden"
+
+#: inc/functions.php:376
+msgid "title"
+msgstr "Titel"
+
+#: inc/functions.php:452
+msgid "Do you want to set header images for more post types like"
+msgstr "TitelMöchten Sie Headerbilder für weitere Beitragstypen festlegen, z"
+
+#: inc/wphi_settings.php:3
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+"Sie haben keine ausreichenden Berechtigungen, um auf diese Seite zuzugreifen."
+
+#: inc/wphi_settings.php:17 inc/wphi_settings.php:39
+msgid "Sorry, your nonce did not verify."
+msgstr "Entschuldigung, Ihre Nachricht wurde nicht bestätigt."
+
+#: inc/wphi_settings.php:66
+msgid "Click here to download pro version"
+msgstr "Klicken Sie hier, um die Pro-Version herunterzuladen"
+
+#: inc/wphi_settings.php:66
+msgid "Already a Pro Member?"
+msgstr "Bereits Pro-Mitglied?"
+
+#: inc/wphi_settings.php:70
+msgid "Pro"
+msgstr "Profi"
+
+#: inc/wphi_settings.php:74
+msgid "Header Images"
+msgstr "Header-Bilder"
+
+#: inc/wphi_settings.php:75
+msgid "Styling"
+msgstr "Styling"
+
+#: inc/wphi_settings.php:76
+msgid "Templates"
+msgstr "Vorlagen"
+
+#: inc/wphi_settings.php:77
+msgid "How it works?"
+msgstr "Wie es funktioniert?"
+
+#: inc/wphi_settings.php:102 inc/wphi_settings.php:138
+#: inc/wphi_settings.php:153 inc/wphi_settings.php:184
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: inc/wphi_settings.php:126
+msgid "Click here to remove this header image"
+msgstr "Klicken Sie hier, um dieses Headerbild zu entfernen"
+
+#: inc/wphi_settings.php:126
+msgid "Clear"
+msgstr "klar"
+
+#: inc/wphi_settings.php:140
+msgid "You need to"
+msgstr "Du musst"
+
+#: inc/wphi_settings.php:140
+msgid "Create a Menu"
+msgstr "Erstellen Sie ein Menü"
+
+#: inc/wphi_settings.php:140
+msgid "first"
+msgstr "zuerst"
+
+#: inc/wphi_settings.php:162 inc/wphi_settings.php:301
+msgid "Click here to go premium"
+msgstr "Klicken Sie hier, um Premium zu werden"
+
+#: inc/wphi_settings.php:180 inc/wphi_settings.php:220
+msgid "Select any template"
+msgstr "Wählen Sie eine Vorlage aus"
+
+#: inc/wphi_settings.php:186
+msgid "Display Page Title on Image"
+msgstr "Seitentitel im Bild anzeigen"
+
+#: inc/wphi_settings.php:197 inc/wphi_settings.php:233
+msgid "Template HTML"
+msgstr "HTML-Vorlage"
+
+#: inc/wphi_settings.php:200 inc/wphi_settings.php:236
+msgid "Template Styles and Scripts"
+msgstr "Vorlagenstile und Skripte"
+
+#: inc/wphi_settings.php:214
+msgid "Templates feature is a premium feature."
+msgstr "Die Vorlagenfunktion ist eine Premiumfunktion."
+
+#: inc/wphi_settings.php:249
+msgid "For Developers"
+msgstr "Für Entwickler"
+
+#: inc/wphi_settings.php:249
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: inc/wphi_settings.php:249
+msgid "Advanced/Premium"
+msgstr "Erweitert / Premium"
+
+#: inc/wphi_settings.php:251
+msgid "Use following action hook instead"
+msgstr "Verwenden Sie stattdessen den folgenden Aktionshaken"
+
+#: inc/wphi_settings.php:257
+msgid "Expected Output"
+msgstr "Erwartete Ausgabe"
+
+#: inc/wphi_settings.php:262
+msgid "Sample CSS"
+msgstr "Beispiel CSS"
+
+#: inc/wphi_settings.php:273
+msgid "Steps to follow"
+msgstr "Schritte zum folgen"
+
+#: inc/wphi_settings.php:273
+msgid "Basic"
+msgstr "Basic"
+
+#: inc/wphi_settings.php:275
+msgid "Click here to open theme"
+msgstr "Klicken Sie hier, um das Thema zu öffnen"
+
+#: inc/wphi_settings.php:277 inc/wphi_settings.php:294
+msgid "Insert any of these code snippets inside"
+msgstr "Fügen Sie einen dieser Codeausschnitte ein"
+
+#: inc/wphi_settings.php:277 inc/wphi_settings.php:294
+msgid "body"
+msgstr "Karosserie"
+
+#: inc/wphi_settings.php:277 inc/wphi_settings.php:294
+msgid "tag wherever you want these header images to appear."
+msgstr "tag, wo diese Header-Bilder angezeigt werden sollen."
+
+#: inc/wphi_settings.php:282
+msgid "That's it."
+msgstr "Das ist es."
+
+#: inc/wphi_settings.php:286
+msgid "This plugin is compatible with WordPress default theme function"
+msgstr ""
+"Dieses Plugin ist mit der Standarddesignfunktion von WordPress kompatibel"
+
+#: inc/wphi_settings.php:288
+msgid "If your theme is using this function so no shortcode is required."
+msgstr ""
+"Wenn Ihr Theme diese Funktion verwendet, ist kein Shortcode erforderlich."
+
+#: inc/wphi_settings.php:288
+msgid "You can simply use this plugin alternative of the default header image."
+msgstr ""
+"Sie können diese Plugin-Alternative einfach vom Standard-Header-Bild "
+"verwenden."
+
+#: inc/wphi_settings.php:289
+msgid "Click here"
+msgstr "Klick hier"
+
+#: inc/wphi_settings.php:289
+msgid "to check if this theme is using default header image functionality?"
+msgstr ""
+"um zu überprüfen, ob dieses Design die Standard-Header-Bildfunktionalität "
+"verwendet?"
+
+#: index.php:34
+msgid "Click here to set header image"
+msgstr "Klicken Sie hier, um das Kopfzeilenbild festzulegen"
